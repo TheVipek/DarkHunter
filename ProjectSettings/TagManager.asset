@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Ground
+  - Laser
+  - Key
+  - stagebarrier
+  - portaltext
+  - Spike
+  - NPC
+  - Gun
+  - Ammo
+  - Music
+  - Monster
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Monster
+    uniqueID: 2931675409
+    locked: 0
+  - name: NPC
+    uniqueID: 1712276329
+    locked: 0
+  - name: Player
+    uniqueID: 745865869
+    locked: 0
+  - name: Background
+    uniqueID: 769929171
+    locked: 0
+  - name: Foreground Stuff
+    uniqueID: 1495595881
+    locked: 0
+  - name: UI
+    uniqueID: 2155259179
+    locked: 0
